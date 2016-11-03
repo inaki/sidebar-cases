@@ -1,0 +1,39 @@
+{
+  "name": "sidebar-cases",
+  "version": "1.0.0",
+  "description": "case study app for testing background scrolling disabling ",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inaki/sidebar-cases.git"
+  },
+  "keywords": [
+    "disable",
+    "background",
+    "scrolling",
+    "sidebar",
+    "overlay"
+  ],
+  "author": "inaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inaki/sidebar-cases/issues"
+  },
+  "homepage": "https://github.com/inaki/sidebar-cases#readme",
+  "dependencies": {
+    "css-loader": "^0.25.0",
+    "node-sass": "^3.11.1",
+    "sass-loader": "^4.0.2",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-preset-es2015": "^6.18.0"
+  }
+}
